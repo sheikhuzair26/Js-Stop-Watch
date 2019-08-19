@@ -64,7 +64,7 @@ footer:hover i {
     transition: 2s;
 }
 
-@media screen and (max-width:340px) {
+@media screen and (max-width:370px) {
     .time {
         font-size: 4em;
     }
