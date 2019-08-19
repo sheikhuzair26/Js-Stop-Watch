@@ -1,3 +1,3 @@
-# Stop Watch
+# Guess-the-Number-Game
 
-# Published Link: https://sheikhuzair26.github.io/Js-Stop-Watch/
+# Published Link: https://sheikhuzair26.github.io/Guess-the-Number-Game/
